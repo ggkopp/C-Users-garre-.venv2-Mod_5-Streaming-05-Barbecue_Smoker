@@ -27,3 +27,7 @@ Any food temperature changes less than 1 degree F in 10 minutes (food stall!)
 ## Smoker Alert: The smoker temperature decreases by more than 15 degrees F in 2.5 minutes
 
 ![Alt text](<Smokler Alert.png>)
+
+## RabbitMQ UI's Response:
+
+![Alt text](<RabbitMQ 3 queues running.png>)
