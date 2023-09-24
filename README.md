@@ -32,3 +32,19 @@ Any food temperature changes less than 1 degree F in 10 minutes (food stall!)
 
 ![Alt text](<RabbitMQ 3 queues running.png>)
 ![Alt text](RabbitMQUI.png)
+
+## Resources and Libraries Used: 
+
+Chat GPT
+
+import pika
+import sys
+import csv
+import time
+import logging
+import pika
+import sys
+import time
+import logging
+from collections import deque
+import datetime
